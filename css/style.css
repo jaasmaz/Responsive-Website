@@ -1025,6 +1025,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-cta .overlay {
   background: rgba(0, 0, 0, 0.7);
+  background-image: url(https://images.unsplash.com/photo-1520438820514-ea74646a0f38?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ed35790c504cf121d6ea141f385c49ba&auto=format&fit=crop&w=1500&q=80);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   left: 0;
   right: 0;
   bottom: 0;
