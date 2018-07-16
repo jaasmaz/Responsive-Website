@@ -1,3 +1,2 @@
 # Responsive Website 
-Mobile Friendly website
-New
+Mobile Friendly website Template
